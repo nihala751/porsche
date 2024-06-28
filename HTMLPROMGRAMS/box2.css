@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+h1{
+    text-align: center;
+    font-family: "Poetsen One", sans-serif;
+    color: aqua;
+
+}
+body{
+    background-color: black;
+    color: black;
+
+}
+.c{
+    width: 80px;
+    height: 80px;
+    border: solid 2px;
+
+}
+.c1{
+    background-color: palevioletred;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+
+}
+.c2{
+    background-color: rgb(235, 47, 106);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+}
+.c3{
+    background-color: rgb(196, 13, 74);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.c4{
+    background-color: rgb(234, 83, 83);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.c5{
+    width: 180;
+    height: 180;
+    border-radius: 10px 40px 70px;
+    background-color: rgb(175, 251, 93);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.c6{
+    width: 180;
+    height: 180;
+    border-radius: 40px 10px 70px;
+    background-color: rgb(71, 210, 28);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.c7{
+    width: 180;
+    height: 180;
+    border-radius: 10px 40px 70px 20px;
+    background-color: rgb(24, 104, 10);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.c8{
+    width: 180;
+    height: 180;
+    border-radius: 70px 40px 10px 30px;
+    background-color: rgb(13, 75, 17);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.c9{
+    background-color: rgb(224, 237, 102);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.c10{
+    background-color: rgb(196, 193, 31);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.c11{
+    background-color: rgb(154, 167, 20);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.c12{
+    background-color: rgb(90, 102, 12);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.c13{
+    background-color: rgb(134, 242, 217);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.c14{
+    background-color: rgb(43, 176, 202);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.c15{
+    background-color: rgb(15, 108, 128);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+
+}
+.c16{
+    background-color: rgb(6, 50, 60);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.c17{
+    width: 180;
+    height: 180;
+    border-radius: 60px 70px 10px 20px;
+    background-color: rgb(175, 75, 240);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;}
+    .c18{
+        width: 180;
+        height: 180;
+        border-radius: 70px 10px 10px 70px;
+        background-color: rgb(168, 21, 205);
+        margin-top: 100px;
+        margin-left: 100px;
+        margin-bottom: 100px;}
+        .c19{
+            width: 180;
+            height: 180;
+            border-radius: 10px 50px 50px 10px;
+            background-color: rgb(123, 24, 131);
+            margin-top: 100px;
+            margin-left: 100px;
+            margin-bottom: 100px;}
+            .c20{
+                width: 180;
+                height: 180;
+                border-radius: 10px 40px 10px 30px;
+                background-color: rgb(80, 6, 81);
+                margin-top: 100px;
+                margin-left: 100px;
+                margin-bottom: 100px;}
+                .c21{
+                    width: 180;
+                    height: 180;
+                    border-radius: 40px 10px 30px 10px;
+                    background-color: rgb(92, 7, 59);
+                    margin-top: 100px;
+                    margin-left: 100px;
+                    margin-bottom: 100px;}

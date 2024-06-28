@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lobster&family=Major+Mono+Display&family=Poetsen+One&family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+
+div{
+    color: rgb(1, 17, 17);
+    height: 90px;
+    width: 1000px;
+    background-color: rgb(14, 15, 15);
+    position: fixed;
+    left: 50%;
+    top: 50px;
+
+}
+p{
+    color: rgb(233, 30, 121);
+
+    font-family: "Lobster", sans-serif;
+
+
+}

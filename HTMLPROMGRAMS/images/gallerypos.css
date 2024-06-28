@@ -1,0 +1,367 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lobster&family=Major+Mono+Display&family=Poetsen+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lobster&family=Major+Mono+Display&family=Pacifico&family=Poetsen+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lobster&family=Major+Mono+Display&family=Pacifico&family=Poetsen+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.cdnfonts.com/css/waltograph');
+
+h1{
+    text-align: center;
+    color: rgba(243, 245, 247, 0.73);
+    background: linear-gradient(90deg, rgb(0, 2, 17) 0%, rgb(10, 3, 99) 35%, rgba(4, 4, 7, 0.951) 100%);
+
+    top: -70px;
+}
+
+#di{
+    font-family: "Cinzel Decorative", serif;
+
+    color: rgba(13, 79, 185, 0.712)
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+.col{
+    width: 47px;
+    height: 300px;
+    border: rgb(243, 237, 237) solid grey 600px;
+    border-radius: 0px 00px 0px 0px;
+    float: left;
+    color: antiquewhite;
+    
+    border: solid black 3px;
+    position: absolute;
+    top: 200px;
+
+        
+       
+}
+#div1{
+    height: 550px;
+    margin-top: -825px;
+    padding: 20px;
+    background-size: cover;
+    background-image: url(https://wallpaper.dog/large/5555215.jpg);
+    background-attachment: fixed;
+}
+
+
+h3{
+
+   text-align: left;
+   color: rgba(16, 57, 158, 0.707);
+
+
+}
+h2{
+padding-top: 50px;
+font-family: "Poetsen One", sans-seri;
+color: rgb(168, 248, 252);
+color: linear-gradient(90deg, rgb(60, 60, 236) 0%, rgba(11,183,164,1) 35%, rgba(110,167,179,1) 100%);
+}
+
+
+body{
+    background: rgb(13, 7, 123);
+background: linear-gradient(90deg, rgb(0, 2, 17) 0%, rgb(11, 5, 103) 35%, rgba(4, 4, 7, 0.951) 100%);
+}
+
+
+.col1{
+    width: 250px;
+    height: 300px;
+    top: 980px;
+    left: 30px;
+    color: rgba(250, 235, 215, 0.858);
+    border: solid rgba(250, 245, 245, 0.025) 3px;
+    border-image-width: 100px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.col1:hover{
+    border-image-width: 150px;
+    opacity: 1;
+    background-color: rgba(250, 235, 215, 0.536);
+        color: rgb(23, 23, 23);
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 6px;
+        
+
+}
+#w1:hover{
+    width: 150px;
+}
+h4{
+color: rgba(250, 235, 215, 0.712);
+padding-top: 50px;
+padding-bottom: -50px;
+
+
+
+}
+.col2{
+    width: 250px;
+    height: 300px;
+    top: 980px;
+    left: 350px;
+    color: rgba(249, 246, 246, 0.895);
+    border: solid rgba(250, 245, 245, 0.052) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+    
+}
+
+.col3{
+    width: 250px;
+    height: 300px;
+    top: 980px;
+    left: 650px;
+    color: rgba(243, 248, 243, 0.874);
+    border: solid rgba(250, 245, 245, 0.064) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.col4{
+    width: 250px;
+    height: 300px;
+    top: 980px;
+    left: 950px;
+    color: rgba(245, 243, 249, 0.86);
+    border: solid rgba(250, 245, 245, 0.062) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.col5{
+    width: 250px;
+    height: 300px;
+    top: 980px;
+    left: 1250px;
+    color: rgba(250, 235, 215, 0.866);
+    border: solid rgba(250, 245, 245, 0.055) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.col6{
+    width: 250px;
+    height: 300px;
+    top: 980px;
+    left: 1570px;
+    color: rgba(250, 235, 215, 0.847);
+    border: solid rgba(250, 245, 245, 0.081) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.col7{
+    width: 250px;
+    height: 300px;
+    top: 980px;
+    left: 1870px;
+    color: rgba(250, 235, 215, 0.847);
+    border: solid rgba(250, 245, 245, 0.058) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.col8{
+    width: 250px;
+    height: 300px;
+    top: 980px;
+    left: 2170px;
+    color: rgba(250, 235, 215, 0.859);
+    border: solid rgba(250, 245, 245, 0.064) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.col9{
+    width: 250px;
+    height: 300px;
+    top: 1320px;
+    left: 30px;
+    color: rgba(250, 235, 215, 0.838);
+    border: solid rgba(250, 245, 245, 0.082) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.col10{
+    width: 250px;
+    height: 300px;
+    top: 1320px;
+    left: 350px;
+    color: rgba(250, 235, 215, 0.867);
+    border: solid rgba(250, 245, 245, 0.059) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.col11{
+    width: 250px;
+    height: 300px;
+    top: 1320px;
+    left: 650px;
+    color: rgba(250, 235, 215, 0.896);
+    border: solid rgba(250, 245, 245, 0.079) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.col12{
+    width: 250px;
+    height: 300px;
+    top: 1320px;
+    left: 950px;
+    color: rgba(250, 235, 215, 0.871);
+    border: solid rgba(250, 245, 245, 0.078) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.col13{
+    width: 250px;
+    height: 300px;
+    top: 1320px;
+    left: 1250px;
+    color: rgba(250, 235, 215, 0.882);
+    border: solid rgba(250, 245, 245, 0.068) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.col14{
+    width: 250px;
+    height: 300px;
+    top: 1320px;
+    left: 1570px;
+    color: rgba(250, 235, 215, 0.882);
+    border: solid rgba(250, 245, 245, 0.063) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.col15{
+    width: 250px;
+    height: 300px;
+    top: 1320px;
+    left: 1870px;
+    color: rgba(250, 245, 245, 0.505);
+    border: solid rgba(247, 244, 244, 0.053) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+
+.col16{
+    width: 250px;
+    height: 300px;
+    top: 1320px;
+    left: 2170px;
+    color: rgba(250, 245, 245, 0.505);
+    border: solid rgba(247, 244, 244, 0.053) 3px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+img{
+    width: 235px;
+    height: 250px;
+    left: 50px;
+    border-radius: 20px 20px 20px 20px;
+
+    
+}
+#iq{
+    top: -100px;
+}
+h5{
+    text-align: center;
+}
+#h3{
+    top: 300px;
+    font-family: "Poppins", sans-serif;
+    color: rgba(250, 235, 215, 0.501);
+
+}
+#h3:hover{
+    opacity: 1;
+    color: antiquewhite;
+}
+#hr{
+
+    font-family: "Poppins", sans-serif;
+    color: rgba(250, 250, 245, 0.514);
+    
+
+}
+span{
+    color: rgb(23, 69, 237);
+    top: 50px;
+}
+button{
+    width: 200px;
+    height: 60px;
+    border-radius: 10px 10px 10px 10px;
+    color: rgba(254, 254, 253, 0.573);
+    background-color: rgba(0, 0, 0, 0.46);
+}
+button:hover{
+    opacity: 1;
+    background-color: rgba(250, 235, 215, 0.519);
+        color: rgb(23, 23, 23);
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 6px;
+}
+#bu1{
+    width: 60px;
+    border-radius: 10px 10px 10px 10px;
+
+    
+}
+#bu1:hover{
+    opacity: 1;
+    background-color: rgba(250, 235, 215, 0.536);
+        color: rgb(23, 23, 23);
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 6px;
+}
+h4{
+    padding-top: -50px;
+    left: 50px;
+    opacity: 1;
+
+}
+h4:hover{
+    opacity: 1;
+        color: rgb(255, 253, 253);
+        box-shadow: 0 4px 8px 0 rgba(251, 250, 250, 0.2), 6px;
+    
+    }
+
+#bu2{
+    background-color: green;
+    width: 50px;
+    height: 20px;
+}
+
+#bu4{
+    width: 300px;
+    height: 40px;
+    background-color: rgb(9, 9, 9);
+    border-radius: 20px 20px 20px 20px ;
+
+
+}
+#g2{
+    width: 100px;
+    height: 60px;
+    padding-left: 25px;
+    padding-top: 5px;
+
+}
+#bu4:hover{
+    opacity: 1;
+    background-color: antiquewhite;
+        color: rgb(23, 23, 23);
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 6px;
+    }
+
+#bu8{
+    width: 240px;
+    height: 30px;
+    border-radius: 15px 15px 15px 15px;
+    border-color: antiquewhite;
+    color: rgb(15, 14, 14);
+    opacity: 0;
+    background-color: rgb(251, 249, 247);
+}
+#bu8:hover{
+    opacity: 1;
+}
+#hc{
+    color: black;
+    
+}

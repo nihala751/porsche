@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+.col{
+    width: 17%;
+    height: 500px;
+    border: rgb(243, 237, 237) solid grey 600px;
+    border-radius: 30px 30px 30px 30px;
+    float: left;
+    background-color: black;
+    color: antiquewhite;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,30,121,1) 35%, rgba(0,212,255,1) 100%);
+    padding-left: 20px;
+    padding-top: -300px;
+    margin-left: 19px;
+    margin-top: 15px;
+}
+img{
+    width: 50%;
+    height: 210px;
+padding-left: 50px;
+
+}
+h1{
+   color: aqua; 
+   text-align: center;
+
+
+}
+h2{
+padding-top: 50px;
+font-family: "Poetsen One", sans-seri;
+color: rgb(168, 248, 252);
+color: linear-gradient(90deg, rgb(60, 60, 236) 0%, rgba(11,183,164,1) 35%, rgba(110,167,179,1) 100%);
+}
+
+
+body{
+    background: rgb(17,13,83);
+background: linear-gradient(90deg, rgba(17,13,83,1) 0%, rgba(10,24,87,1) 35%, rgba(17,89,104,1) 100%);
+}

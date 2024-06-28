@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lobster&family=Major+Mono+Display&family=Poetsen+One&family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+
+#ha{
+    text-align: center;
+    margin-top: 60px;
+    color: aquamarine;
+    width: 40px;
+    height: 50px;
+}
+span{
+    color: rgb(213, 250, 250);
+}
+
+
+h1{
+    text-align: center;
+    margin-left: -5px;
+    color: rgb(239, 245, 246);
+    background: linear-gradient(90deg, rgba(5, 53, 129, 0.323) 0%, rgba(72, 145, 218, 0.255) 35%, rgba(6, 45, 112, 0.255) 100%);
+
+
+}
+#he{
+    text-align: center;
+    margin-top: 60px;
+    color: aquamarine;
+    width: 40px;
+    height: 50px; 
+}
+
+#div1{
+    height: 500px;
+    margin-top: 50px;
+    padding: 20px;
+    background-image: url(./7-wonders-of-the-world-005.webp);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#div2{
+    height: 500px;
+    margin-top: 50px;
+    padding: 20px;
+    background-image: url(./wallofchina.webp);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#div3{
+    height: 500px;
+    margin-top: 50px;
+    padding: 20px;
+    background-image: url(./mexico.jpg);
+    background-size: cover;
+    background-attachment: fixed; 
+}
+#div4{
+    height: 500px;
+    margin-top: 50px;
+    padding: 20px;
+    background-image: url(./petra.webp);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#div5{
+    height: 500px;
+    margin-top: 50px;
+    padding: 20px;
+    background-image: url(./mashupicha.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#div6{
+    height: 500px;
+    margin-top: 50px;
+    padding: 20px;
+    background-image: url(./christbrazil.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#div7{
+    height: 500px;
+    margin-top: 50px;
+    padding: 20px;
+    background-image: url(./colosseum.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#div8{
+    height: 500px;
+    margin-top: 50px;
+    padding: 20px;
+    background-image: url(./tajmahal.webp);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+#div13{
+    height: 500px;
+    margin-top: 50px;
+    padding: 20px;
+    background-image: url(./blue.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p{
+    color: rgba(9, 9, 9, 0.447);
+
+    font-family: "Lobster", sans-serif;
+    background: linear-gradient(90deg, rgba(242, 244, 247, 0.129) 0%, rgba(100, 166, 220, 0.216) 35%, rgba(190, 221, 250, 0.112) 100%);
+text-align: center;
+border-radius: 1px;
+border: solid rgba(254, 253, 253, 0.61);
+
+}
+button{
+    border-radius: 40px 40px 40px 40px;
+    color: rgb(14, 13, 13);
+    background-color: antiquewhite;
+    width: 200px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 550px;
+    border-color: antiquewhite;
+    
+}
+h4{
+    color: antiquewhite;
+}
+h6{
+color: antiquewhite;
+}
+#bu1{
+    border-radius: 40px 40px 40px 40px;
+    color: rgb(14, 13, 13);
+    background-color: antiquewhite;
+    width: 100px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 30px; 
+    background-color: antiquewhite;
+    border-color: antiquewhite;
+}
+#la{
+    text-size-adjust: 500px;
+}
+h2{
+    text-align: center;
+}

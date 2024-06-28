@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Major+Mono+Display&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Major+Mono+Display&family=Poetsen+One&family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+
+h1{
+    color: rgb(4, 80, 4);
+    margin-left: 20px;
+}
+h4{
+    padding-left: 100px;
+    margin-top: -42px;
+}
+#g2{
+    padding-left: 25px;
+}
+#hq{
+    background-color: rgb(9, 86, 9);
+    color: antiquewhite;
+    padding-left: 40px;
+    width: 1350px;
+    height: 60px;
+}
+.col{
+    width: 1000px;
+    height: 500%;
+    margin-bottom: 50px;
+}
+#t1{
+    background-color: rgb(42, 176, 156);
+    margin-left: 190px;
+    margin-top: -545px;
+
+}
+#im1{
+    margin-left: 20px;
+    border-radius: 70px 70px 70px 70px;
+}
+#im2{
+    margin-left: 100px;
+    border-radius: 70px 70px 70px 70px;
+}
+h5{
+    font-family: "Lato", sans-serif;
+    margin-left: 40px;
+
+}
+#imc{
+    margin-left: 250px;
+}
+h3{
+    background-color: rgb(5, 156, 143);
+    color: antiquewhite;
+    padding-left: 40px;
+    width: 1350px;
+    height: 250px;
+}
+#im8{
+    margin-left: 10px;
+    margin-top: -50px;
+    border-radius: 70px 70px 70px 70px;
+    border: solid rgb(9, 68, 9) 6px;
+
+}
+#f2{
+    font-family: "Poetsen One", sans-serif;
+
+}
+p{
+    margin-left: 300px;
+    margin-top: -180px; 
+    font-family: "Ubuntu Sans Mono", monospace;
+
+    color: antiquewhite;
+
+}
+#b2{
+    width: 120px;
+    height: 36px;
+    border-radius: 20px;
+    background-color: rgb(253, 253, 252);
+    border: solid white 6px;
+}
+#b1{
+    width: 120px;
+    height: 36px;
+    border-radius: 20px;
+    background-color: rgb(9, 97, 30);
+    border: solid white;
+    color: white;
+}  
+#h2{
+    margin-left: 50px;
+    margin-top: 150px;
+
+}
+#imq1{
+    margin-left: 30px;
+    margin-top: 50px;
+    padding-top: 100px;
+
+    
+}
+#imq2{
+    margin-left: 565px;
+    margin-top: -200px;
+    padding-top: 300px;
+}
+#imq3{
+    margin-left: 1090px;
+    margin-top: -900x;
+    padding-top: 600px;
+}
+p{
+    color: black;
+}
+#div2{
+    width: 18%;
+    border: black solid;
+}
+#qm1{
+    background-color: rgb(42, 176, 156);
+    margin-left: 90px;
+    margin-top: -545px;
+
+}

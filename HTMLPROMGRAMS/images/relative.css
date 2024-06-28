@@ -1,0 +1,14 @@
+ 
+.row{
+    width: 50%;
+    height: 500px;
+    border-color: black;
+    color: aqua;
+
+}
+.col{
+    width: 50%;
+    height: 500px;
+    border-color: black;
+
+}

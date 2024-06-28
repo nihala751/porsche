@@ -1,0 +1,24 @@
+h1{
+    color: maroon;
+}
+#d1{
+    color: aqua;
+}
+.c{
+    color: black;
+}
+.c1{
+    background-color: blanchedalmond;
+}
+#d2{
+    text-align: end;
+}
+.c1,#d2{
+    text-align: center;
+}
+div{
+    background-color: aqua;
+}
+.p1{
+    background-color: aqua;
+}

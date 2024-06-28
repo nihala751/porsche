@@ -1,0 +1,11 @@
+h1{
+    color: antiquewhite;
+    border: solid 3px;
+    text-align: center;
+}
+
+body{
+    background-color:black ;
+    background: linear-gradient(90deg, rgb(15, 16, 18) 0%, rgba(23, 23, 23, 0.966) 35%, rgba(12, 12, 12, 0.796) 100%);
+
+}
